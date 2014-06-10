@@ -1,0 +1,19 @@
+C:\Test Cases\ListenerService\ListenerService\obj\Debug\ResolveAssemblyReference.cache
+C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.pdb
+C:\Test Cases\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+C:\Test Cases\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Test Cases\ListenerService\ListenerService\obj\Debug\ListenerService.ProjectInstaller.resources
+C:\Test Cases\ListenerService\ListenerService\obj\Debug\ListenerService.csproj.GenerateResource.Cache
+C:\Users\Luciferis\Desktop\TEMP\ListenerService\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\bin\Debug\ListenerService.pdb
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\obj\Debug\ListenerService.csprojResolveAssemblyReference.cache
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\obj\Debug\ListenerService.ProjectInstaller.resources
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\obj\Debug\ListenerService.csproj.GenerateResource.Cache
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+C:\Users\Luciferis\Documents\GitHub\ListenerService\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+C:\Users\Luciferis\Documents\GitHub\ListenerService\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Users\Luciferis\Documents\GitHub\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+C:\Users\Luciferis\Documents\GitHub\ListenerService\ListenerService\obj\Debug\ListenerService.pdb

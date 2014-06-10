@@ -1,0 +1,5 @@
+C:\Test Cases\ListenerLibrary\ListenerLibrary\bin\Debug\ListenerLibrary.dll
+C:\Test Cases\ListenerLibrary\ListenerLibrary\bin\Debug\ListenerLibrary.pdb
+C:\Test Cases\ListenerLibrary\ListenerLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Test Cases\ListenerLibrary\ListenerLibrary\obj\Debug\ListenerLibrary.dll
+C:\Test Cases\ListenerLibrary\ListenerLibrary\obj\Debug\ListenerLibrary.pdb

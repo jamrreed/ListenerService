@@ -1,0 +1,14 @@
+C:\Test Cases\Timers\Timers\bin\Debug\Timers.exe
+C:\Test Cases\Timers\Timers\bin\Debug\Timers.pdb
+C:\Test Cases\Timers\Timers\obj\Debug\ResolveAssemblyReference.cache
+C:\Test Cases\Timers\Timers\obj\Debug\App.g.cs
+C:\Test Cases\Timers\Timers\obj\Debug\Timers_MarkupCompile.cache
+C:\Test Cases\Timers\Timers\obj\Debug\Timers.g.resources
+C:\Test Cases\Timers\Timers\obj\Debug\Timers.Properties.Resources.resources
+C:\Test Cases\Timers\Timers\obj\Debug\Timers.csproj.GenerateResource.Cache
+C:\Test Cases\Timers\Timers\obj\Debug\Timers.exe
+C:\Test Cases\Timers\Timers\obj\Debug\Timers.pdb
+C:\Test Cases\Timers\Timers\obj\Debug\MainWindow.baml
+C:\Test Cases\Timers\Timers\obj\Debug\MainWindow.g.cs
+C:\Test Cases\Timers\Timers\bin\Debug\ListenerLibrary.dll
+C:\Test Cases\Timers\Timers\bin\Debug\ListenerLibrary.pdb

@@ -1,0 +1,25 @@
+C:\Test Cases\ListenerTest\ListenerTest\bin\Debug\ListenerTest.exe
+C:\Test Cases\ListenerTest\ListenerTest\bin\Debug\ListenerTest.pdb
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\Window1.baml
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\Window1.g.cs
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\App.g.cs
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest_MarkupCompile.cache
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest.g.resources
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest.Properties.Resources.resources
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest.csproj.GenerateResource.Cache
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest.exe
+C:\Test Cases\ListenerTest\ListenerTest\obj\Debug\ListenerTest.pdb
+C:\Users\Luciferis\Desktop\TEMP\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.pdb
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\bin\Debug\ListenerTest.exe
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\bin\Debug\ListenerTest.pdb
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.csprojResolveAssemblyReference.cache
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\Window1.baml
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\Window1.g.cs
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\App.g.cs
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest_MarkupCompile.cache
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.g.resources
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.Properties.Resources.resources
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.csproj.GenerateResource.Cache
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.exe
+C:\Users\Luciferis\Documents\GitHub\Eventcity\ListenerService\ListenerTest\ListenerTest\obj\Debug\ListenerTest.pdb

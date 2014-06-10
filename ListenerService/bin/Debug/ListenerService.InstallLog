@@ -1,0 +1,205 @@
+﻿Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Attempt to stop service Listener.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Attempt to stop service Listener.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Attempt to stop service Listener.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Creating EventLog source Listener in log Application...
+Rolling back assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Restoring event log to previous state for source Listener.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
+Installing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Installing service Listener...
+Service Listener has been successfully installed.
+Creating EventLog source Listener in log Application...
+Committing assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Uninstalling assembly 'C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.InstallLog
+   assemblypath = C:\Test Cases\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+Removing EventLog source Listener.
+Service Listener is being removed from the system...
+Service Listener was successfully removed from the system.
