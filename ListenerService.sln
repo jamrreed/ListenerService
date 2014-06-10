@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenerService", "Listener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenerTest", "ListenerTest\ListenerTest\ListenerTest.csproj", "{CE3AF567-6C5F-4735-A176-D0C2A8807AA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timers", "Timers\Timers\Timers.csproj", "{1F8776D7-38D7-4C59-B02F-BE086C5B2AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenerLibrary", "ListenerLibrary\ListenerLibrary\ListenerLibrary.csproj", "{14462ED4-6DCC-429E-95F0-BD1CA0FFEC61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CE3AF567-6C5F-4735-A176-D0C2A8807AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3AF567-6C5F-4735-A176-D0C2A8807AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3AF567-6C5F-4735-A176-D0C2A8807AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8776D7-38D7-4C59-B02F-BE086C5B2AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8776D7-38D7-4C59-B02F-BE086C5B2AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8776D7-38D7-4C59-B02F-BE086C5B2AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8776D7-38D7-4C59-B02F-BE086C5B2AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14462ED4-6DCC-429E-95F0-BD1CA0FFEC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14462ED4-6DCC-429E-95F0-BD1CA0FFEC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14462ED4-6DCC-429E-95F0-BD1CA0FFEC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14462ED4-6DCC-429E-95F0-BD1CA0FFEC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
